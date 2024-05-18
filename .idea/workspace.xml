@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff2a5089-1c29-4352-aaa4-1d1ad050c011" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PATIKA_RENTACAR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgresql-42.7.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/BrandManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/CarManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/ModelManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/ComboItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/BrandDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/ModelDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/AdminView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/AdminView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/BookingView/BookingView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/BookingView/BookingView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/BrandView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/BrandView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/CarView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/CarView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/LoginView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ModelView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ModelView.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2fDysNCioQlEJFxrMlR83Km6VZB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "316",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/utkualtunok/Documents/PATIKA_RENTACAR",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff2a5089-1c29-4352-aaa4-1d1ad050c011" name="Changes" comment="" />
+      <created>1713350149229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713350149229</updated>
+      <workItem from="1713610743432" duration="5920000" />
+      <workItem from="1713722961566" duration="17507000" />
+      <workItem from="1714426058274" duration="1560000" />
+      <workItem from="1714994993019" duration="667000" />
+      <workItem from="1715685240685" duration="26000" />
+      <workItem from="1716062056923" duration="3778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
